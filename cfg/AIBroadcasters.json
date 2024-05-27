@@ -5,8 +5,16 @@
       "address": "0x012345dE92B630C065dFc0caBE4eB34f74f7FC85"
     },
     {
+      "name": "Livepeer.Cloud SPE",
+      "address": "0x5ae4e42db3671370a0c25aff451e7482aaec3d0b"
+    },
+    {
       "name": "stronk-gateway.eth",
       "address": "0x87d4396204035736422c2c6dfce423bba6daa776"
+    },
+    {
+      "name": "Papabear AI Gateway",
+      "address": "0x2752513f699fd713b8f4CE8538E560BE12B416B0"
     },
     {
       "name": "Transcode.eth",
